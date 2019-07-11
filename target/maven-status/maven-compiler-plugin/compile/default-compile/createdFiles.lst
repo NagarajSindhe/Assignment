@@ -1,0 +1,10 @@
+com\java2novice\restful\DBConstants.class
+com\java2novice\restful\RestEasyExample.class
+com\java2novice\restful\CutomExceptionMapper.class
+com\java2novice\restful\CutomException.class
+com\java2novice\restful\Service.class
+com\java2novice\restful\ServiceResponse.class
+com\java2novice\restful\ServiceImpl.class
+com\java2novice\restful\Books.class
+com\java2novice\restful\GetRecords.class
+com\java2novice\restful\SingltonDBConnection.class
